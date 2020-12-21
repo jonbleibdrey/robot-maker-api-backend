@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  head: MyString
+  body: MyString
+  left_arm: MyString
+  right_arm: MyString
+  left_leg: MyString
+  right_leg: MyString
+
+two:
+  head: MyString
+  body: MyString
+  left_arm: MyString
+  right_arm: MyString
+  left_leg: MyString
+  right_leg: MyString
